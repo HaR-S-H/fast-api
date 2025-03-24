@@ -5,7 +5,7 @@ from pydantic import BaseModel
 from sentence_transformers import SentenceTransformer
 from pinecone import Pinecone
 import google.generativeai as genai
-
+from config import GOOGLE_API_KEY, PINECONE_API_KEY, PINECONE_INDEX_NAME
 # FastAPI app
 app = FastAPI()
 
