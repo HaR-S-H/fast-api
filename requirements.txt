@@ -1,1 +1,1 @@
-fastapi[all]
+pip install fastapi[all] uvicorn sentence-transformers pinecone-client google-generativeai pydantic  python-dotenv dotenv pinecone
