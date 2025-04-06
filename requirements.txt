@@ -1,14 +1,7 @@
 fastapi[all]
 uvicorn
-sentence-transformers
 google-generativeai
 pydantic
 python-dotenv
 dotenv
-pinecone
-pinecone-client
-langchain
-langchain-pinecone
 google-generativeai
-pydantic
-huggingface-hub
